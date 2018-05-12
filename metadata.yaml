@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25766#The-ImmortalOr-One-Of-The--Forty.---L-immortel----1877
 gutenberg_issued: '2008-06-12'
 gutenberg_type: Text
 identifiers:
